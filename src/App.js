@@ -10,7 +10,7 @@ import Login from './login';
 
 function App() {
   return (
-    <BrowserRouter basename='/React-shope'>
+    <BrowserRouter>
     <div className="App">
       <Navigationbar/>
       <Routes>
