@@ -10,6 +10,7 @@ import Login from './login';
 
 function App() {
   return (
+    <Router basename="/React-shope">
     <BrowserRouter>
     <div className="App">
       <Navigationbar/>
@@ -22,6 +23,7 @@ function App() {
     </div>
     <Footer />
     </BrowserRouter>
+    </Router>
   );
 }
 
