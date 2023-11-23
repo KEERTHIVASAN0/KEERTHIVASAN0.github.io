@@ -10,7 +10,6 @@ import Login from './login';
 
 function App() {
   return (
-    <Router basename="/React-shope">
     <BrowserRouter>
     <div className="App">
       <Navigationbar/>
@@ -20,10 +19,11 @@ function App() {
         <Route path='/card' element={<CardPage/>}></Route>
         <Route path='/MDBContainer' element={<Login/>}></Route>
       </Routes>
+      
+      <Footer />
     </div>
-    <Footer />
     </BrowserRouter>
-    </Router>
+
   );
 }
 
