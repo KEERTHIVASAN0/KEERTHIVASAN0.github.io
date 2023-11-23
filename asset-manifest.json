@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/React-shope/static/css/main.28553307.css",
-    "main.js": "/React-shope/static/js/main.48f7312f.js",
+    "main.js": "/React-shope/static/js/main.7769d691.js",
     "static/js/787.b1e6304a.chunk.js": "/React-shope/static/js/787.b1e6304a.chunk.js",
     "static/media/img3.jpg": "/React-shope/static/media/img3.d18681cea1d3e0c2e770.jpg",
     "static/media/1.jpg": "/React-shope/static/media/1.74f0cbb83867058c366a.jpg",
@@ -15,11 +15,11 @@
     "static/media/linkedin.svg": "/React-shope/static/media/linkedin.396778b7f28164a21fb71f41c95a4eb6.svg",
     "static/media/twitter.svg": "/React-shope/static/media/twitter.f97c74a7b952419ac7d26cacf5fac827.svg",
     "main.28553307.css.map": "/React-shope/static/css/main.28553307.css.map",
-    "main.48f7312f.js.map": "/React-shope/static/js/main.48f7312f.js.map",
+    "main.7769d691.js.map": "/React-shope/static/js/main.7769d691.js.map",
     "787.b1e6304a.chunk.js.map": "/React-shope/static/js/787.b1e6304a.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.28553307.css",
-    "static/js/main.48f7312f.js"
+    "static/js/main.7769d691.js"
   ]
 }
